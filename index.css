@@ -1,0 +1,36 @@
+ul {
+    list-style-type: none;
+    justify-content: center;
+    margin: auto;
+    padding: 20px;
+    overflow: hidden;
+    background-color: #111111;
+    align-items: center;
+  }
+button{
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    
+}
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display:inline;
+    text-align: center;
+    padding: 14px 16px;
+    margin: 40px;
+    text-decoration: none;
+    border: none;
+  }
+  
+  li a:hover {
+    background-color: #f30b0b;
+  }
+
+  p{
+    text-align: center;
+  }
